@@ -1,36 +1,5 @@
 /* Rhody Sail Freight - Main Stylesheet */
 
-/* ===== Prototype Banner & Badge ===== */
-.prototype-banner {
-  background: linear-gradient(135deg, #f6e05e 0%, #ecc94b 100%);
-  color: #744210;
-  text-align: center;
-  padding: 0.75rem 1rem;
-  font-size: 0.9rem;
-  font-weight: 600;
-  border-bottom: 2px dashed #d69e2e;
-}
-
-.prototype-banner a {
-  color: #744210;
-  text-decoration: underline;
-}
-
-.prototype-badge {
-  display: inline-block;
-  background: #f6e05e;
-  color: #744210;
-  font-size: 0.7rem;
-  font-weight: 700;
-  font-family: var(--font-body);
-  padding: 0.2rem 0.5rem;
-  border-radius: 4px;
-  margin-left: 0.5rem;
-  vertical-align: middle;
-  letter-spacing: 0.5px;
-  text-transform: uppercase;
-}
-
 /* ===== CSS Variables / Design System ===== */
 :root {
   /* Colors */
